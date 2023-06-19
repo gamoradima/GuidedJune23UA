@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/AJuneDev23UA/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/AJuneDev23UA/Data/**" />
+		<Compile Remove="$(PkgPath)/AJuneDev23UA/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/AJuneDev23UA/Schemas\**" />
+		<Compile Remove="$(PkgPath)/AJuneDev23UA/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AJuneDev23UA/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AJuneDev23UA/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AJuneDev23UA/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AJuneDev23UA/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AJuneDev23UA/Resources/**" />
+		<None Remove="$(PkgPath)/AJuneDev23UA/Assemblies/**" />
+		<None Remove="$(PkgPath)/AJuneDev23UA/Data/**" />
+		<None Remove="$(PkgPath)/AJuneDev23UA/SqlScripts/**" />
+		<None Remove="$(PkgPath)/AJuneDev23UA/Schemas/**" />
+		<None Remove="$(PkgPath)/AJuneDev23UA/Resources/**" />
+  </ItemGroup>
+</Project>
