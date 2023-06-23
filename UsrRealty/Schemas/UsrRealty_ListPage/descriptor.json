@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bfb2bc1d-6c61-4275-9fd7-2580090c8761",
+    "Name": "UsrRealty_ListPage",
+    "ModifiedOnUtc": "\/Date(1687432591000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Недвижимость list page",
+    "DependsOn": []
+  }
+}
