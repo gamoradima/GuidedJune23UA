@@ -7,7 +7,9 @@
 			<Item Name="LocalizableStrings.addRecord_3ijv139_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_u1t00be_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_y4fms55_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.Button_1e18lg6_caption.Value" Value="Добавить просмотры" />
 			<Item Name="LocalizableStrings.Button_3bw2i60_caption.Value" Value="ПЫЩЬ!" />
+			<Item Name="LocalizableStrings.Button_xh8m93v_caption.Value" Value="Запуск сервиса" />
 			<Item Name="LocalizableStrings.ComboBox_ac878a0_ariaLabel.Value" Value="Выпадающий список" />
 			<Item Name="LocalizableStrings.ComboBox_ac878a0_label.Value" Value="Тип менеджера" />
 			<Item Name="LocalizableStrings.ExpansionPanel_xp68dmv_title.Value" Value="Просмотр недвижимости (Freedom UI)" />
@@ -17,6 +19,8 @@
 			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ir4pyz5_caption.Value" Value="Обновить" />
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_licv1zp_placeholder.Value" Value="Поиск" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_qmsaclm_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.MenuItem_pq1o8jk_caption.Value" Value="Расчет средней цены" />
+			<Item Name="LocalizableStrings.MenuItem_y1xfyji_caption.Value" Value="Добавить просмотры" />
 			<Item Name="LocalizableStrings.NumberInput_s1s2bn0_label.Value" Value="Число" />
 		</Items>
 	</Group>

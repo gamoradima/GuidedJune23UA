@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "c38165b7-eb96-49c7-9a12-04b165aa6fa1",
     "Name": "UsrRealty_FormPage",
-    "ModifiedOnUtc": "\/Date(1687521579000)\/",
+    "ModifiedOnUtc": "\/Date(1688040844000)\/",
     "Parent": {
       "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
       "Name": "PageWithTabsFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Недвижимость form page",
-    "DependsOn": []
+    "Caption": "Страница записи Недвижимость"
   }
 }

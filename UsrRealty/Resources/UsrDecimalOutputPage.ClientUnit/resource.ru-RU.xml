@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrDecimalOutputPage" />
+			<Item Name="Parameters.ae0c7813-f4e0-46b6-9c15-c7e1601b3b58.Caption" Value="Text to validate" />
+			<Item Name="Parameters.b82e3ffb-8169-4876-80c7-701735eb24b0.Caption" Value="Средняя цена, USD/м2" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Сохранить" />
+			<Item Name="Parameters.e8d7b90d-15d9-493a-9994-b7ccd9e0f845.Caption" Value="SQL text" />
+		</Items>
+	</Group>
+</Resources>

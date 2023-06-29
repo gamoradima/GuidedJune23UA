@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Тип предложения недвижимости (Classic)" />
+			<Item Name="Columns.UsrCommissionMultiplier.Caption" Value="Коэффициент комиссии, от 0 до 1" />
 		</Items>
 	</Group>
 </Resources>

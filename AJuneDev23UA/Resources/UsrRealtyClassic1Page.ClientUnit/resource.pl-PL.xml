@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница редактирования: &quot;Недвижимость (Classic)&quot;" />
+			<Item Name="LocalizableStrings.UsrSchema2deb684eDetaile21c19e0DetailCaptionOnPage.Value" Value="Obiekt" />
 		</Items>
 	</Group>
 </Resources>

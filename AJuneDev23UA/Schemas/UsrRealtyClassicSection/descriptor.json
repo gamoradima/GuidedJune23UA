@@ -8,6 +8,7 @@
       "Name": "BaseSectionV2"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Схема раздела: \"Недвижимость (Classic)\""
+    "Caption": "Схема раздела: \"Недвижимость (Classic)\"",
+    "DependsOn": []
   }
 }
