@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "40673061-bd62-4b9b-b1e9-ec2a9c94552f",
+    "Name": "UsrGetGoldRateMainProcess",
+    "ModifiedOnUtc": "\/Date(1688127723000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Главный процесс получения курсов золота"
+  }
+}
